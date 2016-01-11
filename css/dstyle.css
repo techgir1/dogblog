@@ -11,6 +11,20 @@ body {
 	color: white;
 }
 
+.navbar-default {
+  	background: rgb(51, 133, 255);
+    background: rgba(51, 133, 255, 0.5); 
+}
+
+ul {
+	color: white;
+}
+
+ }
+
+}
+
+
 h1 {
 	padding-left: 5px;
 	font-family: impact;
